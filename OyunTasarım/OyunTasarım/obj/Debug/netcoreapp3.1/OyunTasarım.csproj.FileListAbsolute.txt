@@ -1,0 +1,13 @@
+C:\Users\Hp\source\repos\OyunTasarım\OyunTasarım\bin\Debug\netcoreapp3.1\OyunTasarım.exe
+C:\Users\Hp\source\repos\OyunTasarım\OyunTasarım\bin\Debug\netcoreapp3.1\OyunTasarım.deps.json
+C:\Users\Hp\source\repos\OyunTasarım\OyunTasarım\bin\Debug\netcoreapp3.1\OyunTasarım.runtimeconfig.json
+C:\Users\Hp\source\repos\OyunTasarım\OyunTasarım\bin\Debug\netcoreapp3.1\OyunTasarım.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\OyunTasarım\OyunTasarım\bin\Debug\netcoreapp3.1\OyunTasarım.dll
+C:\Users\Hp\source\repos\OyunTasarım\OyunTasarım\bin\Debug\netcoreapp3.1\OyunTasarım.pdb
+C:\Users\Hp\source\repos\OyunTasarım\OyunTasarım\obj\Debug\netcoreapp3.1\OyunTasarım.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\OyunTasarım\OyunTasarım\obj\Debug\netcoreapp3.1\OyunTasarım.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\OyunTasarım\OyunTasarım\obj\Debug\netcoreapp3.1\OyunTasarım.AssemblyInfo.cs
+C:\Users\Hp\source\repos\OyunTasarım\OyunTasarım\obj\Debug\netcoreapp3.1\OyunTasarım.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\OyunTasarım\OyunTasarım\obj\Debug\netcoreapp3.1\OyunTasarım.dll
+C:\Users\Hp\source\repos\OyunTasarım\OyunTasarım\obj\Debug\netcoreapp3.1\OyunTasarım.pdb
+C:\Users\Hp\source\repos\OyunTasarım\OyunTasarım\obj\Debug\netcoreapp3.1\OyunTasarım.genruntimeconfig.cache
