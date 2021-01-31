@@ -15,8 +15,8 @@ namespace OyunTasarım
         {
             if (_userValidationService.Validate(player)==true)
             {
-                Console.WriteLine(player.PlayerName +":" + "Oyuncu kaydedildi.");
-            }
+            Console.WriteLine(player.PlayerName +":" + "Oyuncu kaydedildi.");
+        }
             else
             {
                 Console.WriteLine(player.PlayerName+":"+ "Oyuncu kaydedilmedi");
