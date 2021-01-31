@@ -8,7 +8,7 @@ namespace OyunTasarım
     {
         public string PlayerName { get; set; }
         public string PlayerLastName { get; set; }
-        public string NationalIdentity { get; set; }
+        public long NationalIdentity { get; set; }
         public int DateOfBirthYear { get; set; }
 
     }

@@ -10,21 +10,21 @@ namespace OyunTasarım
             player1.PlayerName = "Ceren";
             player1.PlayerLastName = "Turgut";
             player1.DateOfBirthYear = 2002;
-            player1.NationalIdentity = "12345678921";
+            player1.NationalIdentity = 12345678921;
 
             Player player2 = new Player();
             player2.PlayerName = "Celal";
             player2.PlayerLastName = "Turgut";
             player2.DateOfBirthYear = 2001;
-            player2.NationalIdentity = "25694322142";
+            player2.NationalIdentity = 25694322142;
 
             Player player3 = new Player();
             player3.PlayerName = "Tülay";
             player3.PlayerLastName = "Kılınc";
             player3.DateOfBirthYear = 1978;
-            player3.NationalIdentity = "26946848928";
+            player3.NationalIdentity = 26946848928;
 
-            PlayerManager playerManager = new PlayerManager();
+            PlayerManager playerManager = new PlayerManager(new UserValidationManager());
             playerManager.Register(player1);
             playerManager.Delete(player2);
             playerManager.Update(player3);
